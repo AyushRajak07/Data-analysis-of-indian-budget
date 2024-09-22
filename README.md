@@ -1,1 +1,2 @@
 # Data-analysis-of-indian-budget
+Data Analysis of Indian Budget 2024 is a Python-based project designed to analyze and gain insights into the Indian Budget for the year 2024. Using Jupyter Notebooks, this project provides a comprehensive breakdown of key budgetary components, visualizations, and statistical analysis. The project leverages popular data science libraries such as Pandas, NumPy, and Matplotlib to explore various financial metrics, helping users understand the fiscal decisions, revenue generation, and expenditure patterns outlined in the budget.
